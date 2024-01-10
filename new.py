@@ -1,3 +1,2 @@
 print('New features very top')
-print('More features'
-)
+print('More features')
